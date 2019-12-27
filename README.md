@@ -8,4 +8,4 @@ gatsby develop
 
 I hope to have this project hosted and easily accessible on the web soon, with more features!
 
-**Cheers! 🍻**
+## Cheers! 🍻
