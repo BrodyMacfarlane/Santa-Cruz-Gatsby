@@ -1,0 +1,10 @@
+@font-face {
+  font-family: SK-Modernist;
+  src: url('../fonts/Sk-Modernist.otf') format('opentype');
+}
+
+body, html {
+  font-family: SK-Modernist;
+  margin: 0;
+  padding: 0;
+}
